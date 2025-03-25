@@ -1,3 +1,15 @@
+***COMMAND FOR USE***
+
+    docker build -t frontend .
+
+AND
+
+    docker run -dt -p8080:80 frontend
+
+
+
+*----------------*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
